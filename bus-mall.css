@@ -2,3 +2,14 @@
   display: inline-block;
   margin: 1em auto;
 }
+canvas {
+  width: 400px;
+  length: 400px;
+}
+section {
+  background: blue;
+
+}
+img {
+  width: 100px;
+}
